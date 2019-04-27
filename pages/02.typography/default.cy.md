@@ -4,7 +4,7 @@ title: Typography
 
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
 
-! Cofnodion Llanddaniel Fab [pdfjs=https://s3-eu-west-1.amazonaws.com/llanddaniel2018/2018_cof_03.pdf]
+! Cofnodion Llanddaniel Fab [pdfjs=(https://s3-eu-west-1.amazonaws.com/llanddaniel2018/2018_cof_03.pdf)]
 ![Remote Image 1](https://getgrav.org/images/testimage.png)
 
 The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new default theme for Grav built with [Spectre.css](https://picturepan2.github.io/spectre/) the lightweight, responsive and modern CSS framework. Spectre provides  basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.
