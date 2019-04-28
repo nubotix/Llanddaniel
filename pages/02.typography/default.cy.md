@@ -4,7 +4,7 @@ title: Typography
 
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
 
-! Cofnodion Llanddaniel Fab[Cofnod](https://s3-eu-west-1.amazonaws.com/llanddaniel2018/2018_cof_03.pdf)
+! Cofnodion Llanddaniel Fab [Cofnod](https://s3-eu-west-1.amazonaws.com/llanddaniel2018/2018_cof_03.pdf)
 
 
 
